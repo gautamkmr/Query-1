@@ -32,6 +32,6 @@ Please note that efficiency is important, as the input set might be quite large 
 Instruction: 
 Compile:  g++ query1.cpp
 
-Run:   ./a.out file name
+Run:   ./a.out file_name
 
 <Enter your Query>  
